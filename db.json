@@ -3,25 +3,27 @@
     {
       "id": "gh47kj",
       "completed": true,
-      
-      "description": "do farm cleaning ",
+      "category": "farm -work",
+      "description": "to do some preperations on the farm before planting",
       "tags": [
         "important",
         "urgent"
       ]
     },
     {
-      ,
+      "id": "gh6793",
       "completed": false,
-      "category": "farm opperations",
-      "description": "water all the plants",
-     
+      "category": " farm-work",
+      "description": "make ditches and apply manure ready foor planting",
+      "tags": [
+        "urgent"
+      ]
     },
     {
       "id": "h34ije",
       "completed": false,
-      "category": "Work-stuff",
-      "description": "Go out with friends to Ikigai on Saturday",
+      "category": "farm-Work",
+      "description": "plant on the onset of the rain",
       "tags": [
         "important"
       ]
@@ -29,8 +31,8 @@
     {
       "id": "ijh53o",
       "completed": true,
-      "category": "home-stuff",
-      "description": "clean up the compound by cleaning the bushes",
+      "category": "home-chores",
+      "description": "clean the whole compound by cutting down bushes",
       "tags": [
         "important",
         "urgent"
