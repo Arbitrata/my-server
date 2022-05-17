@@ -3,7 +3,7 @@
     {
       "id": "gh47kj",
       "completed": true,
-      "category": "farm opperations",
+      
       "description": "do farm cleaning ",
       "tags": [
         "important",
@@ -11,13 +11,11 @@
       ]
     },
     {
-      "id": "gh6793",
+      ,
       "completed": false,
       "category": "farm opperations",
       "description": "water all the plants",
-      "tags": [
-        "urgent"
-      ]
+     
     },
     {
       "id": "h34ije",
