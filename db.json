@@ -1,0 +1,51 @@
+{
+  "todos": [
+    {
+      "id": "gh47kj",
+      "completed": true,
+      "category": "farm opperations",
+      "description": "do farm cleaning ",
+      "tags": [
+        "important",
+        "urgent"
+      ]
+    },
+    {
+      "id": "gh6793",
+      "completed": false,
+      "category": "farm opperations",
+      "description": "water all the plants",
+      "tags": [
+        "urgent"
+      ]
+    },
+    {
+      "id": "h34ije",
+      "completed": false,
+      "category": "Work-stuff",
+      "description": "Go out with friends to Ikigai on Saturday",
+      "tags": [
+        "important"
+      ]
+    },
+    {
+      "id": "ijh53o",
+      "completed": true,
+      "category": "home-stuff",
+      "description": "clean up the compound by cleaning the bushes",
+      "tags": [
+        "important",
+        "urgent"
+      ]
+    },
+    {
+      "id": "jtri34",
+      "completed": false,
+      "category": "home-chores",
+      "description": "Wash Utensils using strepsils",
+      "tags": [
+        "important"
+      ]
+    }
+  ]
+}
